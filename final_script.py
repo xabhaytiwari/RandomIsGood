@@ -86,9 +86,9 @@ class TeeLogger(object):
 sys.stdout = TeeLogger()
 
 CONFIG = dict(
-    dataset_dir       = "/data/activeLearningProAbhay",
-    json_path         = "/data/activeLearningProAbhay/train_mini-json/train_mini.json",
-    cache_file        = "multiexit_embeddings_v5_multimodal.npz", 
+    dataset_dir       = "/", # Change these to your local environment
+    json_path         = "/",
+    cache_file        = "/", 
     al_rounds         = 5,
     budget_per_round  = 35000,
     extract_batch     = 512,
