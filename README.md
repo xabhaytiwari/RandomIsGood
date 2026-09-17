@@ -77,7 +77,7 @@ If you use this code or reference this work, please cite:
             Fine-Grained Classification},
   year   = {2026},
   doi    = {PENDING},
-  url    = {https://github.com/YOUR_USERNAME/YOUR_REPO}
+  url    = {https://github.com/xabhaytiwari/RandomIsGood}
 }
 ```
 
