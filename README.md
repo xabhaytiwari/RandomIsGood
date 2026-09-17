@@ -4,8 +4,7 @@
 **Abhay Tiwari** — Department of Computer Science and Engineering, Indian Institute of Information Technology, Raichur
 `ad23b1001@iiitr.ac.in`
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22807079.svg)](https://doi.org/10.5281/zenodo.22807079)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22807164.svg)](https://doi.org/10.5281/zenodo.22807164)
 
 ---
 
