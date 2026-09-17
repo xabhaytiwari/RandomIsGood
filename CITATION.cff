@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Does Smarter Acquisition Beat Random Sampling? A Fully-Controlled Study of Submodular, Density-Aware Active Learning for Fine-Grained Classification"
+authors:
+  - family-names: "Tiwari"
+    given-names: "Abhay"
+    email: "ad23b1001@iiitr.ac.in"
+    affiliation: "Indian Institute of Information Technology, Raichur"
+  - family-names: "Jallu"
+    given-names: "Ramesh K."
+    email: "jallu@iiitr.ac.in"
+    affiliation: "Indian Institute of Information Technology, Raichur"
+date-released: 2026-09-09
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/xabhaytiwari/RandomIsGood"
+keywords:
+  - active learning
+  - submodular optimization
+  - self-contrastive learning
+  - fine-grained classification
+  - iNaturalist
+  - reproducibility

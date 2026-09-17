@@ -1,0 +1,17 @@
+# Local run artifacts -- not meant to be committed
+checkpoints/
+audit/
+al_results_all_experiments.json
+*.npz
+*.log
+run_log_*.txt
+al_data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+paper_sources/*.aux
+paper_sources/*.log
+paper_sources/*.out
+paper_sources/*.toc
