@@ -71,7 +71,7 @@ If you use this code or reference this work, please cite:
 
 ```bibtex
 @misc{tiwari2026activelearning,
-  author = {Tiwari, Abhay},
+  author = {Tiwari, Abhay and Jallu, Ramesh K.},
   title  = {Does Smarter Acquisition Beat Random Sampling? A Fully-Controlled
             Study of Submodular, Density-Aware Active Learning for
             Fine-Grained Classification},
